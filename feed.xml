@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Frente Popular Darío Santillán · Archivo Histórico 2004-2012</title>
+    <title>Inicio - Frente Popular Darío Santillán · Archivo Histórico 2004-2012</title>
     <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/feed.xml" rel="self" />
     <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012" />
     <updated>2011-12-01T05:14:00-03:00</updated>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/a-diez-anos-del-2001/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/a-diez-anos-del-2001/</id>
+            <category term="Documentos"/>
 
         <updated>2011-12-01T05:14:00-03:00</updated>
             <summary type="html">
@@ -179,6 +180,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/tres-meses-del-indoamericano/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/tres-meses-del-indoamericano/</id>
+            <category term="Documentos"/>
 
         <updated>2011-03-02T05:12:00-03:00</updated>
             <summary type="html">
@@ -215,6 +217,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/agtcap/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/agtcap/</id>
+            <category term="Documentos"/>
 
         <updated>2011-03-01T05:13:00-03:00</updated>
             <summary type="html">

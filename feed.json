@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Frente Popular Darío Santillán · Archivo Histórico 2004-2012",
+    "title": "Inicio - Frente Popular Darío Santillán · Archivo Histórico 2004-2012",
     "description": "",
     "home_page_url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012",
     "feed_url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/feed.json",
@@ -20,6 +20,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Documentos"
             ],
             "date_published": "2011-12-01T05:14:00-03:00",
             "date_modified": "2011-12-01T05:14:00-03:00"
@@ -93,6 +94,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Documentos"
             ],
             "date_published": "2011-03-02T05:12:00-03:00",
             "date_modified": "2011-03-02T05:12:00-03:00"
@@ -107,6 +109,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Documentos"
             ],
             "date_published": "2011-03-01T05:13:00-03:00",
             "date_modified": "2011-03-01T05:13:00-03:00"
