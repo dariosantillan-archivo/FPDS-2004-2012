@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Frente Popular Darío Santillán · Archivo",
+    "title": "Frente Popular Darío Santillán · Archivo Histórico 2004-2012",
     "description": "",
     "home_page_url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012",
     "feed_url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/feed.json",
@@ -34,6 +34,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Revista Cambio Social 2008-2011"
             ],
             "date_published": "2011-11-01T07:24:00-03:00",
             "date_modified": "2011-11-01T07:24:00-03:00"
@@ -48,6 +49,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Revista Cambio Social 2008-2011"
             ],
             "date_published": "2011-09-01T07:23:00-03:00",
             "date_modified": "2011-09-01T07:23:00-03:00"
@@ -62,6 +64,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Revista Cambio Social 2008-2011"
             ],
             "date_published": "2011-08-01T07:22:00-03:00",
             "date_modified": "2011-08-01T07:22:00-03:00"
@@ -118,6 +121,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Revista Cambio Social 2008-2011"
             ],
             "date_published": "2010-10-01T07:21:00-03:00",
             "date_modified": "2010-10-01T07:21:00-03:00"
@@ -146,6 +150,7 @@
                 "name": "FPDS Historia"
             },
             "tags": [
+                   "Revista Cambio Social 2008-2011"
             ],
             "date_published": "2010-06-01T07:20:00-03:00",
             "date_modified": "2010-06-01T07:20:00-03:00"

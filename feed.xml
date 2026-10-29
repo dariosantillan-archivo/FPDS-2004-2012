@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Frente Popular Darío Santillán · Archivo</title>
+    <title>Frente Popular Darío Santillán · Archivo Histórico 2004-2012</title>
     <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/feed.xml" rel="self" />
     <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012" />
     <updated>2011-12-01T05:14:00-03:00</updated>
@@ -72,6 +72,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-10/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-10/</id>
+            <category term="Revista Cambio Social 2008-2011"/>
 
         <updated>2011-11-01T07:24:00-03:00</updated>
             <summary type="html">
@@ -98,6 +99,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-09/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-09/</id>
+            <category term="Revista Cambio Social 2008-2011"/>
 
         <updated>2011-09-01T07:23:00-03:00</updated>
             <summary type="html">
@@ -124,6 +126,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-08/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-08/</id>
+            <category term="Revista Cambio Social 2008-2011"/>
 
         <updated>2011-08-01T07:22:00-03:00</updated>
             <summary type="html">
@@ -260,6 +263,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-07/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-07/</id>
+            <category term="Revista Cambio Social 2008-2011"/>
 
         <updated>2010-10-01T07:21:00-03:00</updated>
             <summary type="html">
@@ -312,6 +316,7 @@
         </author>
         <link href="https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-06/"/>
         <id>https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-06/</id>
+            <category term="Revista Cambio Social 2008-2011"/>
 
         <updated>2010-06-01T07:20:00-03:00</updated>
             <summary type="html">
