@@ -55,6 +55,22 @@
             "date_modified": "2012-06-01T07:20:00-03:00"
         },
         {
+            "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-a-10-anos-del-2001/",
+            "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-a-10-anos-del-2001/",
+            "title": "A 10 años del 2001: los movimientos populares tenemos un proyecto de país",
+            "summary": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-a-10-anos-del-2001.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/mini/compa-a-10-anos-del-2001.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">20 de diciembre de 2011 &middot; 16 páginas &middot; PDF, 11.6 MB</p>\n<p class=\"nota\">Cartilla de la COMPA para el décimo aniversario de las jornadas del 19 y 20 de diciembre de 2001.</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-a-10-anos-del-2001.pdf\">Abrir o descargar el original en PDF</a></p>\n",
+            "content_html": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-a-10-anos-del-2001.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/mini/compa-a-10-anos-del-2001.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">20 de diciembre de 2011 &middot; 16 páginas &middot; PDF, 11.6 MB</p>\n<p class=\"nota\">Cartilla de la COMPA para el décimo aniversario de las jornadas del 19 y 20 de diciembre de 2001.</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-a-10-anos-del-2001.pdf\">Abrir o descargar el original en PDF</a></p>\n",
+            "author": {
+                "name": "FPDS Historia"
+            },
+            "tags": [
+                   "Coordinaciones",
+                   "COMPA"
+            ],
+            "date_published": "2011-12-20T07:30:00-03:00",
+            "date_modified": "2011-12-20T07:30:00-03:00"
+        },
+        {
             "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/a-diez-anos-del-2001/",
             "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/a-diez-anos-del-2001/",
             "title": "A 10 años del 2001, seguimos construyendo poder popular. Por una Argentina sin hambre, sin saqueo ni explotación",
@@ -83,6 +99,22 @@
             ],
             "date_published": "2011-11-01T07:24:00-03:00",
             "date_modified": "2011-11-01T07:24:00-03:00"
+        },
+        {
+            "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-10-propuestas/",
+            "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-10-propuestas/",
+            "title": "A diez años del 2001: 10 propuestas políticas emancipatorias",
+            "summary": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-10-propuestas.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/mini/compa-10-propuestas.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">septiembre de 2011 &middot; 16 páginas &middot; PDF, 2.2 MB</p>\n<p class=\"nota\">Cuadernillo de la Coordinadora de Organizaciones y Movimientos Populares de Argentina (COMPA).</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-10-propuestas.pdf\">Abrir o descargar el original en PDF</a></p>\n",
+            "content_html": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-10-propuestas.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/mini/compa-10-propuestas.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">septiembre de 2011 &middot; 16 páginas &middot; PDF, 2.2 MB</p>\n<p class=\"nota\">Cuadernillo de la Coordinadora de Organizaciones y Movimientos Populares de Argentina (COMPA).</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-10-propuestas.pdf\">Abrir o descargar el original en PDF</a></p>\n",
+            "author": {
+                "name": "FPDS Historia"
+            },
+            "tags": [
+                   "Coordinaciones",
+                   "COMPA"
+            ],
+            "date_published": "2011-09-10T07:30:00-03:00",
+            "date_modified": "2011-09-10T07:30:00-03:00"
         },
         {
             "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/memorias-talleres-coordinadores/",
@@ -127,36 +159,6 @@
             ],
             "date_published": "2011-09-01T07:20:00-03:00",
             "date_modified": "2011-09-01T07:20:00-03:00"
-        },
-        {
-            "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-08/",
-            "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambio-social-08/",
-            "title": "Cambio Social Nº 8 — agosto de 2011",
-            "summary": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambiosocial/originales/cs08.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambiosocial/tapas/cs08.jpg\" alt=\"Portada de Cambio Social Nº 8 — agosto de 2011\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">agosto de 2011 &middot; 20 páginas &middot; PDF, 3.1 MB</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambiosocial/originales/cs08.pdf\">Abrir o descargar el número completo en PDF</a></p>\n",
-            "content_html": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambiosocial/originales/cs08.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambiosocial/tapas/cs08.jpg\" alt=\"Portada de Cambio Social Nº 8 — agosto de 2011\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">agosto de 2011 &middot; 20 páginas &middot; PDF, 3.1 MB</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cambiosocial/originales/cs08.pdf\">Abrir o descargar el número completo en PDF</a></p>\n",
-            "author": {
-                "name": "FPDS Historia"
-            },
-            "tags": [
-                   "Revista Cambio Social 2008-2011"
-            ],
-            "date_published": "2011-08-01T07:22:00-03:00",
-            "date_modified": "2011-08-01T07:22:00-03:00"
-        },
-        {
-            "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres-para-coordinadores/",
-            "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres-para-coordinadores/",
-            "title": "Propuesta de talleres para coordinadores",
-            "summary": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres/originales/talleres-para-coordinadores.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres/mini/talleres-para-coordinadores.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">Julio de 2011 (aprox.) &middot; 1 hoja &middot; PDF, 23 KB &middot; archivo original: <code>Propuesta de talleres para coordinadores.doc</code></p>\n<p class=\"nota\">Carta breve firmada por César proponiendo cuatro talleres para quienes coordinan asambleas, mesas y grupos de trabajo, con una condición explícita: «si no están en frente de ningún grupo pedimos que no participen de estos talleres». No lleva fecha: la del archivo es el 4 de julio de 2011.</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres/originales/talleres-para-coordinadores.pdf\">Abrir o descargar el original en PDF</a></p>\n",
-            "content_html": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres/originales/talleres-para-coordinadores.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres/mini/talleres-para-coordinadores.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">Julio de 2011 (aprox.) &middot; 1 hoja &middot; PDF, 23 KB &middot; archivo original: <code>Propuesta de talleres para coordinadores.doc</code></p>\n<p class=\"nota\">Carta breve firmada por César proponiendo cuatro talleres para quienes coordinan asambleas, mesas y grupos de trabajo, con una condición explícita: «si no están en frente de ningún grupo pedimos que no participen de estos talleres». No lleva fecha: la del archivo es el 4 de julio de 2011.</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/talleres/originales/talleres-para-coordinadores.pdf\">Abrir o descargar el original en PDF</a></p>\n",
-            "author": {
-                "name": "FPDS Historia"
-            },
-            "tags": [
-                   "Talleres de formación"
-            ],
-            "date_published": "2011-07-01T08:22:00-03:00",
-            "date_modified": "2011-07-01T08:22:00-03:00"
         }
     ]
 }
