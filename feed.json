@@ -55,6 +55,22 @@
             "date_modified": "2012-06-01T07:20:00-03:00"
         },
         {
+            "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-luchando-por-justicia-ambiental/",
+            "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-luchando-por-justicia-ambiental/",
+            "title": "Luchando por justicia ambiental, en la ciudad y en el campo",
+            "summary": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-luchando-por-justicia-ambiental.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/mini/compa-luchando-por-justicia-ambiental.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">diciembre de 2011 &middot; 16 páginas &middot; PDF, 993 KB</p>\n<p class=\"nota\">Cartilla de COMPA Ecología Popular: «¿Qué movimiento socio-ambiental para qué proyecto de país?».</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-luchando-por-justicia-ambiental.pdf\">Abrir o descargar el original en PDF</a></p>\n",
+            "content_html": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-luchando-por-justicia-ambiental.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/mini/compa-luchando-por-justicia-ambiental.jpg\" alt=\"Primera hoja del original\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">diciembre de 2011 &middot; 16 páginas &middot; PDF, 993 KB</p>\n<p class=\"nota\">Cartilla de COMPA Ecología Popular: «¿Qué movimiento socio-ambiental para qué proyecto de país?».</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/frente/originales/compa-luchando-por-justicia-ambiental.pdf\">Abrir o descargar el original en PDF</a></p>\n",
+            "author": {
+                "name": "FPDS Historia"
+            },
+            "tags": [
+                   "Coordinaciones",
+                   "COMPA"
+            ],
+            "date_published": "2011-12-21T07:30:00-03:00",
+            "date_modified": "2011-12-21T07:30:00-03:00"
+        },
+        {
             "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-a-10-anos-del-2001/",
             "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/compa-a-10-anos-del-2001/",
             "title": "A 10 años del 2001: los movimientos populares tenemos un proyecto de país",
@@ -145,20 +161,6 @@
             ],
             "date_published": "2011-09-01T07:23:00-03:00",
             "date_modified": "2011-09-01T07:23:00-03:00"
-        },
-        {
-            "id": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartilla-28/",
-            "url": "https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartilla-28/",
-            "title": "Historia de las luchas de l@s trabajador@s en la Argentina",
-            "summary": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartillas/originales/ct28.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartillas/tapas/ct28.jpg\" alt=\"Portada de Historia de las luchas de l@s trabajador@s en la Argentina\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">septiembre de 2011 &middot; 41 páginas &middot; PDF, 24.9 MB</p>\n<p class=\"nota\">Cartilla del Área de Formación, segunda edición. Desde la formación del Estado nacional en el siglo XIX.</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartillas/originales/ct28.pdf\">Abrir o descargar el número completo en PDF</a></p>\n",
-            "content_html": "<div class=\"facsimil\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartillas/originales/ct28.pdf\" title=\"Abrir o descargar el original en PDF\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartillas/tapas/ct28.jpg\" alt=\"Portada de Historia de las luchas de l@s trabajador@s en la Argentina\"  data-is-external-image=\"true\"></figure></a></div>\n<p class=\"ficha\">septiembre de 2011 &middot; 41 páginas &middot; PDF, 24.9 MB</p>\n<p class=\"nota\">Cartilla del Área de Formación, segunda edición. Desde la formación del Estado nacional en el siglo XIX.</p>\n<p class=\"descarga\"><a href=\"https://dariosantillan-archivo.github.io/FPDS-2004-2012/cartillas/originales/ct28.pdf\">Abrir o descargar el número completo en PDF</a></p>\n",
-            "author": {
-                "name": "FPDS Historia"
-            },
-            "tags": [
-            ],
-            "date_published": "2011-09-01T07:20:00-03:00",
-            "date_modified": "2011-09-01T07:20:00-03:00"
         }
     ]
 }
